@@ -59,7 +59,7 @@ function Projects() {
               imgPath={tshirt}
               isBlog={false}
               title="T-Shirt Designing Webite"
-              description="Its a website made using vite which i a react framework and wroks more efiiciently. Designing is done using the THREEJS library whic give a great efeect to the website and animations are added using FRAMER MOTION."
+              description="Its a website made using vite which is a react framework and wroks more efiiciently. Designing is done using the THREEJS library which give a great effect to the website and animations are added using FRAMER MOTION."
               ghLink="https://github.com/ruchir-07/T-shirt-frontend"
               demoLink="https://t-shirt-frontend.vercel.app/"
             />
@@ -70,7 +70,7 @@ function Projects() {
               imgPath={news}
               isBlog={false}
               title="NewsMonkey"
-              description="It is a news app on web which enables us to access latest news of different jounres with the help of news api, infinite scrolling feature is also available in the wesite so that the user doesnt have to switch through bars and reload"
+              description="It is a news app on web which enables us to access latest news of different genre with the help of news api, infinite scrolling feature is also available in the website so that the user doesn't have to switch through bars and reload"
               ghLink="https://github.com/ruchir-07/NewsMonkey"
               demoLink="https://news-monkey-ashen.vercel.app/"
             />
